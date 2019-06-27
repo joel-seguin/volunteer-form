@@ -723,8 +723,6 @@ textarea {
   background-color: #fff;
   border: 2px solid #666;
   border-radius: 0;
-
-  vertical-align: middle;
 }
 
 label {
@@ -1140,4 +1138,5 @@ a:focus, [tabindex="0"]:focus {
   }
 
   /* End HTML5 Boilerplate code */
+
 }
